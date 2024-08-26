@@ -4,10 +4,10 @@ I'm Sivatmika, a passionate Computer Science Engineering student exploring the w
 
 ### 😄 Pronouns: She/Her
 
-- 🌱 I’m currently learning advanced Python programming.
+- 🌱 I’m currently learning advanced Python and Java programming.
 - 👯 I’m looking to collaborate on exciting software development projects.
-- 💬 Ask me about web development, Python, and anything tech-related.
-- 📫 How to reach me: [Your Email or GitHub Profile Link]
+- 💬 Ask me about web development, Python, Java and anything tech-related.
+- 📫 How to reach me: [rs200221@rguktsklm.ac.in]
 - 😄 Fun fact: I love trying out different cuisines and improving my typing speed in my free time!
 
 Thanks for stopping by! 😊
